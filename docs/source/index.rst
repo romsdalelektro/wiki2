@@ -9,5 +9,7 @@ Contents
 --------
  
 .. autosummary::
+   :toctree: /wiki2/docs/source/
+
    sphinx.environment.BuildEnvironment
    sphinx.util.relative_uri
