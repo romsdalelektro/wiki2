@@ -19,8 +19,6 @@ Contents
 
    usage
    api
-   taklampe
   
  
 .. autosummary::
-   :toctree: /docs/source/
