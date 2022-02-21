@@ -1,9 +1,8 @@
-Welcome to Lumache's documentation!
+Romsdal Elektro sine informasjonssider
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
 
 Check out the :doc:`usage` section for further information, including
@@ -20,3 +19,4 @@ Contents
 
    usage
    api
+   taklampe
