@@ -23,4 +23,4 @@ Contents
   
  
 .. autosummary::
-   :toctree: /docs/source/standardprodukt/
+   :toctree: /docs/source/
