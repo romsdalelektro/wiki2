@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'Romsdal Elektro WIKI'
 copyright = '2021, Graziella'
 author = 'Graziella'
 
@@ -32,4 +32,4 @@ templates_path = ['_templates']
 html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
-epub_show_urls = 'footnote'
+#epub_show_urls = 'footnote'
