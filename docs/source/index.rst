@@ -22,3 +22,5 @@ Contents
   
  
 .. autosummary::
+   sphinx.environment.BuildEnvironment
+   sphinx.util.relative_uri
