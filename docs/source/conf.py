@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'Romsdal Elektro WIKI'
-copyright = '2021, Graziella'
-author = 'Graziella'
+copyright = '2022, Romsdal Elektro AS'
+author = 'Romsdal Elektro AS'
 
 release = '0.1'
 version = '0.1.0'
