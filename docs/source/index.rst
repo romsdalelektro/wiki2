@@ -1,25 +1,12 @@
 Romsdal Elektro sine informasjonssider
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-and offers a *simple* and *intuitive* API.
+Her du finner du forskjellig nyttig informasjon som du kan trenge som kunde av Romsdal Elektro AS
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
-.. note::
-
-   This project is under active development.
 
 Contents
 --------
-
-.. toctree::
-
-   usage
-   api
-  
  
 .. autosummary::
    sphinx.environment.BuildEnvironment
